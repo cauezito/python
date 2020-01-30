@@ -18,3 +18,4 @@ print(teste.isdecimal()) #TESTE é DECIMAL?
 print(teste.isalpha()) #TESTE é alpha(betico)?
 print(teste.islower()) #TESTE está em letras maiúsculas?
 
+
